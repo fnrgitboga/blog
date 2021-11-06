@@ -1,0 +1,16 @@
+#+TITLE: One Big Blorg
+* Why I am doing this
+** Why
+*** I've been thinking seriously about starting my own blog since reading [[https://guzey.com/personal/why-have-a-blog/][why you should start a blog right now]].
+** I want to get better at writing even though it is one of the most anxiety inducing tasks I know for me. I want to write silly stuff but still being reduced to making something coherent.
+**** I already take notes for a number of years, but this is about going to the next level and writing more stuff with the intention of eventually publishing it.
+*** I have put this off for a long time because I came up with all kinds of things that I would want to make happen before.
+**** I already started one blog that is associated with my real name, but that just made me never publish something, which defeated the point.
+***** I might also have pushed me over this, but I didn't.
+*** TODO Write about how I eventually made it happen, my time is up for now
+** Todo How I will approach the project looking forward
+*** Write a little bit about my life every day?
+*** Put out thoughts that are not well formed out yet?
+** Have a thought library:
+*** I was really impressed by this one guy who just put his whole stuff into one big org-document. I found that really inspiring and think that for the beginning I don't want to produce Blogpost kind of things but works in progress. That feels way more rewarding than single blogposts where it is kind of hard to track the progress
+**** Not sure this is a good argument, there are other methods, but I am lazy.
